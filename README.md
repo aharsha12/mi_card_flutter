@@ -51,8 +51,6 @@ Simple Flutter "Mi Card" business-card style demo application.
 **Contributing**
 - Contributions are welcome — open an issue or PR with proposed changes.
 
-**License**
-- This repository doesn't include a license file. Add a license if you plan to share it publicly.
 
 **Contact**
 - For questions, update the repo README or open an issue in the project.
